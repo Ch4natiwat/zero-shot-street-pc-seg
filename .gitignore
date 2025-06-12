@@ -1,0 +1,7 @@
+*.pt
+*.pth
+*.jpg
+*.png
+*.pcd
+*.pcd.bin
+*.npy
