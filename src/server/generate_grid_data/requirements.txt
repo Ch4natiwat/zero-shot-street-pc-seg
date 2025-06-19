@@ -1,0 +1,11 @@
+clip @ git+https://github.com/openai/CLIP.git
+nuscenes-devkit==1.1.11
+
+tensorflow==2.19.0
+torchvision==0.22.1
+torch==2.7.1
+
+opencv-python==4.11.0.86
+numpy==1.26.4
+scipy==1.15.3
+tqdm==4.67.1
